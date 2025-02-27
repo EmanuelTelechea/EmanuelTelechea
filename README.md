@@ -5,7 +5,7 @@ anuel ### Hi there 👋
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Enginering at Brigham Younh University Idaho.
+- 🎓 &nbsp; Studying developer analyst at CLAEH University.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -17,12 +17,19 @@ anuel ### Hi there 👋
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)
+  ![ASP.Net](https://img.shields.io/badge/-ASP.Net-333333?style=flat&logo=ASP.Net)
+  ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=Expo)
+
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySql](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![SqlServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=SqlServer)
+  ![SqLite](https://img.shields.io/badge/-SqLite-333333?style=flat&logo=SqLite)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
