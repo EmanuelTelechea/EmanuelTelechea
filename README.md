@@ -17,14 +17,14 @@ anuel ### Hi there 👋
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=ReactNative)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)
   ![ASP.Net](https://img.shields.io/badge/-ASP.Net-333333?style=flat&logo=ASP.Net)
   ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=Expo)
 
 - 🛢 &nbsp;
-  ![MySql](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=MySql)
   ![SqlServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=SqlServer)
   ![SqLite](https://img.shields.io/badge/-SqLite-333333?style=flat&logo=SqLite)
 - ⚙️ &nbsp;
