@@ -1,4 +1,4 @@
-anuel ### Hi there 👋
+### Hi there 👋
 
 <h2>I'm Emanuel Telechea</h2>
 
