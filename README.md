@@ -40,7 +40,7 @@
 
 
 <p>
-<a href="https://github.com/emanueltelechea">
+<a href="https://github.com/emanueltelechea" align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emanueltelechea&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
