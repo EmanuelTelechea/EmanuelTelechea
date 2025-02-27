@@ -22,7 +22,7 @@
   ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=ReactNative)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
   ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=Expo)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express).
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
