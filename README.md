@@ -14,6 +14,7 @@ anuel ### Hi there 👋
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScrpt](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -22,7 +23,7 @@ anuel ### Hi there 👋
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)
   ![ASP.Net](https://img.shields.io/badge/-ASP.Net-333333?style=flat&logo=ASP.Net)
   ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=Expo)
-
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express).
 - 🛢 &nbsp;
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=MySql)
   ![SqlServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=SqlServer)
