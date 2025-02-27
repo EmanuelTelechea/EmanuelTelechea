@@ -40,9 +40,9 @@
 
 
 <p>
-<a href="https://github.com/EmanuelTelechea">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?EmanuelTelechea=cdthomp1&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?EmanuelTelechea=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
+<a href="https://github.com/emanueltelechea">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?emanueltelechea=cdthomp1&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?emanueltelechea=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
